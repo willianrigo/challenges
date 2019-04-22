@@ -50,7 +50,7 @@ No CEO Offices atrás do Via Parque na Barra da Tijuca, Rio de Janeiro
 
 # Oportunidades e desafios
 
-<img align=right src="https://cloud.githubusercontent.com/assets/3603793/23482593/669e9444-feae-11e6-9b6b-d1a53faf984a.png" alt="Challenge Accepeted" width=320>
+<img align=right src="https://cloud.githubusercontent.com/assets/3603793/23482593/669e9444-feae-11e6-9b6b-d1a53faf984a.png" alt="Challenge Accepeted" width=480>
 
 - [Desenvolvedor Font-end Sênior](front-end-senior)
 - [Desenvolvedor Mobile Sênior](mobile-senior)
