@@ -4,7 +4,7 @@
 
 - Conhecimento avançado no scaffolding de front-end Laravel (Blade, Webpack, Bootstrap/Material, Axios e Laravel Mix)
 - Conhecimento avançado em React.js e construção de componentes de UI (Desejável experiência com Storybook)
-- Conhecimentos sólidos em metodologias de testes para componentes front-end (Qunit, Grunt, Jest, Enzyme e etc)
+- Conhecimentos sólidos em metodologias de testes para componentes front-end (Jest, Grunt, Qunit, Enzyme e etc)
 - Experiência com o uso de websockets, rest apis e ajax
 - 5+ anos de experiência com desenvolvimento JS, CSS e HTML
 - Experiência com gestão de times utilizando metodologias de desenvolvimento ágeis (XP, Kanban, Lean, etc)
@@ -51,6 +51,21 @@ Nosso Product Owner desenhou um MVP de consumo de vídeos de nosso canal do YouT
 
 Utilizamos o Adobe XD para mockup e especificação do front, abaixo você pode conferir os links que dão acesso a experiência e exports de assets necessários para a execução do projeto:
 
+- **Link Protótipo - Desktop:**
+https://xd.adobe.com/view/407cbfe1-7f1e-4cbf-6d4e-4201368638a0-364d/
+
+- **Link Desenvolvimento - Desktop:**
+https://xd.adobe.com/spec/dbef4033-19d8-4726-718f-36310db4e9c5-adde/
+
+- **Link Protótipo - Mobile:**
+https://xd.adobe.com/view/f6bc133e-59ab-4893-5ede-b35f00b278eb-808d/   
+
+- **Link Desenvolvimento - Mobile:**
+https://xd.adobe.com/spec/a3c87dfa-95ed-4cd2-6bbe-843d07782f73-d5f9/
+
+- **Link Desenvolvimento - Componentes (Mindset):**
+https://xd.adobe.com/spec/a028d8ba-8ea9-4858-6a0f-5a95fa6377db-d619/
+
 ## Extras
 
 - Testar seus componentes com **[jest]**
@@ -59,7 +74,7 @@ Utilizamos o Adobe XD para mockup e especificação do front, abaixo você pode 
 
 ## Dicas e FAQ
 
-- Voce pode usar o create-react-app ou outras ferramentas CLI para completar o desafio.
+- Você pode usar o create-react-app ou outras ferramentas CLI para completar o desafio.
 - Pré-processadores CSS como SASS ou LESS são bem-vindos.
 - Foco na sustentabilidade do código (documentação/reaproveitamento/testes).
 - Nós recomendamos o Redux para ajudar na gestão do estado da aplicação.
