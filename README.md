@@ -24,7 +24,7 @@ Nós empoderamos o cirurgião-dentista através da democratização do conhecime
 A iDent é a maior plataforma de conhecimento em Odontologia da América Latina com mais de 110.000 profissionais cadastrados e mais de 450 cursos online. Estamos revolucionando a forma como o dentista aprende e se atualiza através de streaming de cursos (Somos o Netflix da Odontologia!). Nós aproveitamos a oportunidade gigantesca de impactar positivamente a vida de milhares de dentistas e pacientes ao redor do mundo.
 
 iDent. Desperte o melhor dentista que existe em você.
-http://wwww.ident.com.br
+http://www.ident.com.br
 
 # Nosso stack
 
