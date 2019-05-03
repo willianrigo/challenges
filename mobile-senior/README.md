@@ -35,7 +35,7 @@ Nosso Product Owner desenhou um MVP de consumo de vídeos de nosso canal do YouT
 
 - Utilize React Native
 - Crie **componentes reaproveitáveis** para cada elemento da interface que **julgar necessário**.
-- Envio de QR code no Expo ou APK para rodar a aplicação
+- Envio de **QR code no [Expo]** ou outra forma direta de rodar a aplicação (APK, TestFlight, etc)
 - Readme com **instruções de deploy** e de opcionalmente de extras (testes/storybook) (Pode ser em português)
 - Código e comentários em inglês
 
@@ -87,4 +87,5 @@ https://xd.adobe.com/spec/a028d8ba-8ea9-4858-6a0f-5a95fa6377db-d619/
 [Google Cloud Console]: https://console.cloud.google.com/
 [API do Youtube]: https://developers.google.com/youtube/v3/
 [Abra uma issue]: https://github.com/iShareLife/challenges/issues/new
+[Expo]: https://expo.io/
 
