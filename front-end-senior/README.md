@@ -20,3 +20,25 @@ Junto com a direção irá desenhar e implantar nossos padrões de desenvolvimen
 
 # Desafio: PWA iDentChannel
 
+Nosso Prduct Owner desenhou um MVP de consume de vídeos de nosso canal do YouTube. Precisamos criar um PWA que exiba lançamentos (envios recentes) e playlists em React.
+
+## Instruções
+
+- Efetue um **fork** desse repositório e crie um **branch com o nome da vaga** que deseja se candidatar.
+- Criar micro commits ou commits por features **detalhando a evolução do teste**.
+- Após finalizar o desafio, crie um **Pull Request**.
+- Aguarde algum contribuidor realizar o code review.
+
+## Requisitos
+
+- Utilize React
+- Crie **componentes reaproveitáveis** para cada elemento da interface que julgar necessário.
+- Você tem que utilizar **inline style**
+
+## Extras
+
+- Testar seus componentes com **[jest]**
+- Crir um **[storybook]** de seus componentes
+
+[storybook]: https://github.com/storybooks/storybook
+[jest]: https://jest-everywhere.now.sh
