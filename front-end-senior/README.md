@@ -1,4 +1,4 @@
-# Oportunidade: Desenvolvedor Font-end Sênior
+# Oportunidade: Desenvolvedor Front-end Sênior
 
 ## O que você precisa ter?
 
