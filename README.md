@@ -8,7 +8,7 @@
 - [O que vamos te dar?](#o-que-vamos-te-dar)
 - [Onde ficamos?](#onde-ficamos)
 - [Oportunidades e desafios](#oportunidades-e-desafios)
-  * [Desenvolvedor Font-end Sênior](front-end-senior)
+  * [Desenvolvedor Front-end Sênior](front-end-senior)
   * [Desenvolvedor Mobile Sênior](mobile-senior)
   
 # Sobre a iShareLife
@@ -52,7 +52,7 @@ No CEO Offices atrás do Via Parque na Barra da Tijuca, Rio de Janeiro
 
 <img align=right src="https://cloud.githubusercontent.com/assets/3603793/23482593/669e9444-feae-11e6-9b6b-d1a53faf984a.png" alt="Challenge Accepeted" width=480>
 
-- [Desenvolvedor Font-end Sênior](front-end-senior)
+- [Desenvolvedor Front-end Sênior](front-end-senior)
 - [Desenvolvedor Mobile Sênior](mobile-senior)
 
 
