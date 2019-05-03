@@ -78,6 +78,7 @@ https://xd.adobe.com/spec/a028d8ba-8ea9-4858-6a0f-5a95fa6377db-d619/
 - Pré-processadores CSS como SASS ou LESS são bem-vindos.
 - Foco na sustentabilidade do código (documentação/reaproveitamento/testes).
 - Nós recomendamos o Redux para ajudar na gestão do estado da aplicação.
+- Tem alguma pergunta? **[Abra uma issue]**.
 
 [storybook]: https://github.com/storybooks/storybook
 [jest]: https://jest-everywhere.now.sh
@@ -86,3 +87,4 @@ https://xd.adobe.com/spec/a028d8ba-8ea9-4858-6a0f-5a95fa6377db-d619/
 [tailwind]: https://tailwindcss.com
 [Google Cloud Console]: https://console.cloud.google.com/
 [API do Youtube]: https://developers.google.com/youtube/v3/
+[Abra uma issue]: https://github.com/iShareLife/challenges/issues/new
