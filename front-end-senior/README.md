@@ -20,7 +20,7 @@ Junto com a direção irá desenhar e implantar nossos padrões de desenvolvimen
 
 # Desafio: PWA iDentChannel
 
-Nosso Prduct Owner desenhou um MVP de consume de vídeos de nosso canal do YouTube. Precisamos criar um PWA que exiba lançamentos (envios recentes) e playlists em React.
+Nosso Product Owner desenhou um MVP de consumo de vídeos de nosso canal do YouTube. Precisamos criar um PWA que exiba lançamentos (envios recentes) e playlists em React.
 
 ## Instruções
 
@@ -35,34 +35,39 @@ Nosso Prduct Owner desenhou um MVP de consume de vídeos de nosso canal do YouTu
 - Utilize React
 - Crie **componentes reaproveitáveis** para cada elemento da interface que **julgar necessário**.
 - Você tem que utilizar **inline style**
-- Readme com **instruções de deploy**
+- Readme com **instruções de deploy** e de opcionalmente de extras (testes/storybook) (Pode ser em português)
 - Código e comentários em inglês
 
-## Aesso à API
+## Acesso à API e dados
 
-- 
+- Crie uma API Key no [Google Cloud Console] para a [API do Youtube]
+- O Channel ID do iDent é: https://www.youtube.com/user/iDentBrasil
+- Lançamentos no layout = Envios recentes
+- Todas as outras listas no layout = Playlists
 
 ## Layout
 
-- Você poderá usar frameworks e UI Kits como base para a execução do projeto **([boostrap], [material-ui], [tailwind], etc)**
+- Você poderá usar frameworks e UI Kits como base para a execução do projeto **([bootstrap], [material-ui], [tailwind], etc)**
 
 Utilizamos o Adobe XD para mockup e especificação do front, abaixo você pode conferir os links que dão acesso a experiência e exports de assets necessários para a execução do projeto:
 
 ## Extras
 
 - Testar seus componentes com **[jest]**
-- Crir um **[storybook]** de seus componentes
+- Criar um **[storybook]** de seus componentes
 - Utilize o Oauth do Youtube para fazer os botões Thumbs UP/DOWN votarem nos vídeos.
 
 ## Dicas e FAQ
 
+- Voce pode usar o create-react-app ou outras ferramentas CLI para completar o desafio.
 - Pré-processadores CSS como SASS ou LESS são bem-vindos.
-- Foco na sustentabilidade do código (dcoumentção/reaproveitamento/testes).
+- Foco na sustentabilidade do código (documentação/reaproveitamento/testes).
 - Nós recomendamos o Redux para ajudar na gestão do estado da aplicação.
-- Voce pode usar o create-react-app para completar o desafio.
 
 [storybook]: https://github.com/storybooks/storybook
 [jest]: https://jest-everywhere.now.sh
 [bootstrap]: https://getbootstrap.com/
 [material-ui]: https://material-ui.com/
 [tailwind]: https://tailwindcss.com
+[Google Cloud Console]: https://console.cloud.google.com/
+[API do Youtube]: https://developers.google.com/youtube/v3/
