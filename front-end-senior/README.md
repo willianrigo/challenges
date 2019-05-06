@@ -1,5 +1,9 @@
 # Oportunidade: Desenvolvedor Front-end Sênior
 
+Este desafio possui diversas especificações que visam guiar você no processo. Porém o mais importante é a entrega final da feature. Então se optar por trade-offs não respeitando a documentação abaixo para entregar a feature fechada no prazo de 7 dias após o seu fork basta fazer o seu pull-request explicando suas decisões, se possível informando o que faria de melhor caso tivesse mais tempo para executar.
+
+**Assim que você efetuar o fork aceitando o desafio, poderá entrar em contato com o WhastApp (21) 99749-4761 agendando a sua entrevista para conhecer de perto a iShareLife.**
+
 ## O que você precisa ter?
 
 - Conhecimento avançado no scaffolding de front-end Laravel (Blade, Webpack, Bootstrap/Material, Axios e Laravel Mix)
