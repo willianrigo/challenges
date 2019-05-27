@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
-import Label from './src/components/Card/Label'
+import Title from './src/components/Card/Title'
 
 export default class App extends React.Component {
   
@@ -8,7 +8,7 @@ export default class App extends React.Component {
 
     return (
       <View style={styles.container}>
-        <Label size={"Large"} color={"Primary"} weight={"Bold"}>Teste</Label>
+        <Title size={"Medium"} color={"Primary"} weight={"Bold"}>Teste</Title>
       </View>
     );
   }
