@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
-import CardButton from './src/components/Card/CardButton'
-import IconLabel from './src/components/Card/IconLabel'
+import Thumb from './src/components/Card/Thumb'
  
 export default class App extends React.Component {
   
@@ -9,7 +8,7 @@ export default class App extends React.Component {
 
     return (
       <View style={styles.container}>
-        <CardButton type={'FAB'}>teste</CardButton>
+        <Thumb></Thumb>
         {/* <IconLabel size="Large" name="Home" type="FontAwesome"></IconLabel> */}
       </View>
     );
