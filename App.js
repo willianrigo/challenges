@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
-import Title from './src/components/Card/Title'
+import IconLabel from './src/components/Card/IconLabel'
 
 export default class App extends React.Component {
   
@@ -8,7 +8,7 @@ export default class App extends React.Component {
 
     return (
       <View style={styles.container}>
-        <Title size={"Medium"} color={"Primary"} weight={"Bold"}>Teste</Title>
+        <IconLabel name={"home"} type={"FontAwesome"}size={"Medium"} color={"Primary"}>Teste</IconLabel>
       </View>
     );
   }

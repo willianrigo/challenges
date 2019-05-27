@@ -41,5 +41,18 @@ export const defaultProps = {
             "Light": 300,
             "Bold": "bold"
         }
+    },
+    iconLabelProps: {
+        size: {
+            "Large": 32,
+            "Medium": 24,
+            "Small": 16,
+            "Nano": 14
+        },
+        color:{
+            "Primary": "#8c388c",
+            "Secondary": "#333333",
+            "Terciary": "#999999"
+        }
     }
 }
