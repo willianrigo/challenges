@@ -34,7 +34,7 @@ export const defaultProps = {
             "Primary": "#8c388c",
             "Secondary": "333333",
             "Terciary": "#999999",
-            "Negative": "#FFFFFF"
+            "Negative": "#FFFFFF",
         },
         weight:{
             "Regular": 400,

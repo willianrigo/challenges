@@ -34,15 +34,14 @@ export default CardButton = (props) => {
 
         else if(props.type === 'FAB'){
             return(
-                <View>
+                <View style={{ justifyContent: 'center', alignItems: 'center', alignSelf: 'center', ...props.style}}>
                     <Button 
                         
                         style={{
                             backgroundColor: '#FFFFFF',
                             borderColor: 'rgba(0, 0, 0, 0.1)',
                             borderRadius: 50,
-                            ...props.style
-                            }}>
+                        }}>
                             
                         <Icon 
                             name='play'

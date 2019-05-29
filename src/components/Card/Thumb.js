@@ -11,10 +11,10 @@ export default Thumb = (props) => {
     } = props;
 
     return(
-        <View style={{height: 200, width: 200, justifyContent: 'center', alignItems: 'center'}}>
+        <View style={{justifyContent: 'center', ...props.style}}>
             <Image
                 style={{
-                    flex: 1
+                    flex: 1,
                 }}
                 source={require('./../../../images/img1.png')}
             />
