@@ -19,7 +19,7 @@ export const defaultProps = {
         },
         color: {
             "Primary": "#8c388c",
-            "Secondary": "333333",
+            "Secondary": "#333333",
             "Terciary": "#999999",
             "Negative": "#FFFFFF"
         },

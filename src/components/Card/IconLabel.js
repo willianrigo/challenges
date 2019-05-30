@@ -13,12 +13,12 @@ export default IconLabel = (props) => {
         type
     } = props
 
-        const { 
-            iconLabelProps
-        } = constants.defaultProps
+    const { 
+        iconLabelProps
+    } = constants.defaultProps
 
         return(
-            <View style={{flexDirection: 'row', ...props.style}}>
+            <View style={{flexDirection: 'row', alignItems: 'center', ...props.style}}>
                 <Icon 
                 name={name}
                 type={type || undefined}

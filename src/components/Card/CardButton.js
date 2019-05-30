@@ -36,11 +36,10 @@ export default CardButton = (props) => {
             return(
                 <View style={{ justifyContent: 'center', alignItems: 'center', alignSelf: 'center', ...props.style}}>
                     <Button 
-                        
                         style={{
                             backgroundColor: '#FFFFFF',
                             borderColor: 'rgba(0, 0, 0, 0.1)',
-                            borderRadius: 50,
+                            borderRadius: 100,
                         }}>
                             
                         <Icon 

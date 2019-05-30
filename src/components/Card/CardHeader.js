@@ -1,7 +1,8 @@
 import React, { Component } from 'react'
 import { StyleSheet } from 'react-native'
-import { View, Card, Container } from 'native-base'
-import Title from './Title'
+import { View, Card, Content } from 'native-base'
+import Label from './Label'
+import IconLabel from './IconLabel'
 
 export default class CardHeader extends Component {
     constructor(props){
@@ -24,16 +25,35 @@ export default class CardHeader extends Component {
                     style={styles.button}
                 />
 
-                <Thumb 
-                    style={styles.thumb}
-                />
+                <View style={styles.content}>
+                    <Thumb 
+                        style={styles.thumb}
+                    />
 
-                <Title
-                    color={'Primary'}
-                    style={styles.title}
-                >
-                    Nanotecnologia
-                </Title>
+                    <View style={{justifyContent: 'center', flex: 2, alignItems: 'center', top: '5%'}}>
+                        <Label
+                            color={'Secondary'}
+                            weight={'Bold'}
+                            style={styles.label}
+                        >
+                            Nanotecnologia Aplicada a Implantodontia
+                        </Label>
+                        <View style={{flexDirection: 'row', justifyContent: 'space-around', width: '60%', alignItems: 'center'}}>
+                            <IconLabel 
+                                name='md-eye'
+                                color='Terciary'
+                                size='Nano'
+                            >1.280
+                            </IconLabel>
+                            <IconLabel 
+                                name='clock'
+                                color='Terciary'
+                                size='Nano'
+                            >1h 19min
+                            </IconLabel>
+                        </View>
+                    </View>
+            </View>
                     
             </Card>
         )
@@ -44,22 +64,27 @@ const styles = StyleSheet.create({
     container: {
         width: 262,
         height: 296,
-        // marginRight: 5,
-        backgroundColor: 'red',
-        flexDirection: 'row',
         borderRadius: 6,
+        flexDirection: 'row',
         overflow: 'hidden',
-        justifyContent: 'center'
+        justifyContent: 'center',
     },
     thumb: {
         width: "100%",
         height: "50%",
+        flex: 2
     },
+    content: {
+        justifyContent: 'space-between',
+        alignItems: 'center'
+    },  
     button: {
         position: "absolute",
-        alignSelf: 'center'
+        alignSelf: 'center',
     },
-    title: {
-        alignSelf: 'flex-end'
+    label: {
+        textAlign: 'center',
+        alignSelf: 'center',
+        marginBottom: '10%'
     }
 })
